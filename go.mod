@@ -1,4 +1,4 @@
-module github.com/kbinani/screenshot
+module github.com/Blink-A/screenshot
 
 go 1.21
 
